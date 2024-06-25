@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.5.0](https://github.com/leavesster/monorepo-changelog-example/compare/b-v0.2.0...b-v0.5.0) (2024-06-25)
+
+
+### Miscellaneous Chores
+
+* release ([fc8c040](https://github.com/leavesster/monorepo-changelog-example/commit/fc8c040425961e8a126724add8f6a2338ab5681a))
+
 ## [0.2.0](https://github.com/leavesster/monorepo-changelog-example/compare/b-v0.1.0...b-v0.2.0) (2024-03-23)
 
 
