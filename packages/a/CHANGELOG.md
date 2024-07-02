@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.7.0](https://github.com/leavesster/release-please-monorepo-example/compare/b-v0.5.0...b-v0.7.0) (2024-07-02)
+
+
+### Features
+
+* add new export aa ([17f35ee](https://github.com/leavesster/release-please-monorepo-example/commit/17f35eee0669c93ea83c77d1586fb85654ac5a02))
+
 ## [0.5.0](https://github.com/leavesster/monorepo-changelog-example/compare/b-v0.2.0...b-v0.5.0) (2024-06-25)
 
 
