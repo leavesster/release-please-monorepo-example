@@ -1,10 +1,12 @@
 {
   "packages": {
     "packages/a": {
-      "component": "a"
+      "component": "a",
+      "pull-request-title-pattern": "chore${scope}: release ${component} to v${version}"
     },
     "packages/b": {
-      "component": "b"
+      "component": "b",
+      "pull-request-title-pattern": "chore${scope}: release ${component} to v${version}"
     }
   },
   "release-type": "node",
