@@ -1,10 +1,10 @@
 {
   "packages": {
     "packages/a": {
-      "component": "b"
+      "component": "a"
     },
     "packages/b": {
-      "component": "a"
+      "component": "b"
     }
   },
   "release-type": "node",
