@@ -15,10 +15,10 @@ Add `release-please-config.json` in the root directory:
     "packages/a": {
       // The "component" field specifies the tag name by release-please.
       // If not set, release-please will use the package name and remove @scope prefix to tag.
-      "component": "b"
+      "component": "a"
     },
     "packages/b": {
-      "component": "a"
+      "component": "b"
     }
   },
   // It specifies where to update the version. In Node.js, it will update the "package.json" version field.
