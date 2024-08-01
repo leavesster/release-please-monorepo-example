@@ -1,0 +1,20 @@
+{
+  "packages": {
+    "packages/a": {
+      "component": "a"
+    },
+    "packages/b": {
+      "component": "b"
+    }
+  },
+  "bump-minor-pre-major": true,
+  "bump-patch-for-minor-pre-major": true,
+  "release-type": "node",
+  "include-v-in-tag": false,
+  "tag-separator": "@",
+  "plugins": [{
+    "type": "node-workspace",
+    "updatePeerDependencies": true
+  }],
+  "$schema": "https://raw.githubusercontent.com/googleapis/release-please/main/schemas/config.json"
+}
